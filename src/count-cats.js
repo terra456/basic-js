@@ -1,6 +1,5 @@
 module.exports = function countCats(arr) {
-  
-  // remove line with error and write your code here
+
   var quantityOfCats = 0;
   if (!arr || arr.length == 0) {
     return 0;
