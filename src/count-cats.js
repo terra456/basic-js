@@ -1,6 +1,7 @@
 module.exports = function countCats(arr) {
-
-  var quantityOfCats = 0;
+//    throw 'Not implemented';
+    // remove line with error and write your code here
+var quantityOfCats = 0;
   if (!arr || arr.length == 0) {
     return 0;
   } else {
